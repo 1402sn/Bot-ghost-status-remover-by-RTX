@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["VNG ON TOP","Solly deptry","discord.gg/vn-g","VN GANG","THANKS FOR JOINED 🌇"];
 
 
 let currentIndex = 0;
